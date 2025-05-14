@@ -1,0 +1,19 @@
+.text-base {
+    font-family: 'Inter', sans-serif;
+    @apply text-[14px];
+}
+
+.text-regular {
+    font-family: 'Inter', sans-serif;
+    @apply text-[16px] font-normal;
+}
+
+.text-large {
+    font-family: 'Inter', sans-serif;
+    @apply text-[18px] font-medium;
+}
+
+.text-largest {
+    font-family: 'Inter', sans-serif;
+    @apply text-[28px] font-medium;
+}

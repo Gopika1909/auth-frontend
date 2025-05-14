@@ -1,0 +1,6 @@
+.card{
+    border: 2px solid #969696;
+    width: 463px;
+    border-radius: 8px;
+    @apply px-12 py-14 bg-card-bg;
+}

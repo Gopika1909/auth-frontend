@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./components/_card.css";
+@import "./components/_typography.css";
+@import "./components/_input.css";
+@import "./components/_button.css";
+@import "./components/_postcard.css";

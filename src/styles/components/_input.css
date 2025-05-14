@@ -1,0 +1,6 @@
+.input-regular{
+    border: 1.5px solid #35373B;
+    font-family: 'Inter', sans-serif;
+    color: #7F8084;
+    @apply text-[14px] font-normal p-3 bg-transparent rounded;
+}

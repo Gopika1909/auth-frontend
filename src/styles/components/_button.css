@@ -1,0 +1,10 @@
+.btn-primary {
+    @apply font-sans text-[16px] font-medium text-white rounded text-center p-2 hover:bg-[#357ABD];
+    background-color: #4A96FF;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.btn-icon{
+    @apply rounded-full cursor-pointer hover:bg-border-gradient-end;
+}
